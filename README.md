@@ -22,7 +22,7 @@
 
 ## DB and Dev Tools etc
 <div align="start">
-  <img alt="my DB Dev Tools etc" src="https://skillicons.dev/icons?perline=7&i=vscode,git,github,cloudflare,d1" />
+  <img alt="my DB Dev Tools etc" src="https://skillicons.dev/icons?perline=7&i=vscode,git,github,cloudflare,supabase,prisma" />
 </div>
 
 ## 
